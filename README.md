@@ -1,3 +1,6 @@
+# Mypages-Client
+This is Mypages-Client VUE
+
 # mypages-client
 
 ## Project setup
