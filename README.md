@@ -1,8 +1,5 @@
-# Mypages-Client
-This is Mypages-Client VUE
 
-# mypages-client
-
+# mypages-clien
 ## Project setup
 ```
 npm install
